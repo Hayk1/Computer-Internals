@@ -13,7 +13,6 @@
 ### 2. Digital Logic
   * Logic Gates
   * AND Gates
-  * OR Gates
   * NOT Gates
   * NAND Gates
   * NOR Gates
